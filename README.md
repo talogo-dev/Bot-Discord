@@ -4,7 +4,7 @@ This bot just have some scripts to start a discord bot. It was created to portug
 
 ## Installation
 
-Use [discord.js](https://discordjs.guide/#before-you-begin) to get started.
+Use [discord.js](https://discordjs.guide/#before-you-begin) to learn how to start the bot.
 
 ```bash
 npm i discord.js
@@ -28,6 +28,8 @@ npm i discord.js
 ```
 
 ## Getting Started
+To run the application you will need to install [node.js](https://discordjs.guide/preparations/#installing-node-js).
+
 ```bash
 node commands.js
 node .
